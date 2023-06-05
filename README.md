@@ -25,9 +25,10 @@ Group Food Ordering 為解決團體訂餐的困擾而成。
 
 ---
 
-### 設計
-#### 領域設計
+### 領域設計
 ![領域設計](./READMEPicture/GroupFoodOrdering_UseCase.jpg)
 
-#### 架構設計 (使用 Clean Architecture 架構設計)
+---
+
+### 架構設計 (使用 Clean Architecture 架構設計)
 ![架構設計](./READMEPicture/GroupFoodOrdering_ClassDiagram.jpg)
